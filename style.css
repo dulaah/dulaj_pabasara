@@ -737,10 +737,7 @@
     }
 
     /* Enhanced Contact Section */
-    .contact {
-        text-align: center;
-    }
-
+ 
     .contact-grid {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -748,6 +745,7 @@
         align-items: start;
         margin-top: 3rem;
     }
+ 
 
     .contact-info h3 {
         color: var(--accent-primary);
